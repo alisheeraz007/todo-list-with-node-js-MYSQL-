@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "express": "^4.17.1",
-    "firebase": "^6.0.4",
+    "firebase": "^10.9.0",
     "mysql": "^2.17.1",
     "nodemon": "^1.19.4",
     "react": "^16.8.6",
